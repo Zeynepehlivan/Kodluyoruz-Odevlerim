@@ -1,7 +1,7 @@
 # kodluyoruzilkrepo
 [Kodluyoruz](https://kodluyoruz.org/) eğitimi kapsamında açtığım ilk repo
 
-![github](figures/github.png)
+![github](https://picsum.photos/200/300)
 
 ## Installation
 
